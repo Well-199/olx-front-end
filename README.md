@@ -1,1 +1,1 @@
-# olx-front-end
+#### Configurando Redux
